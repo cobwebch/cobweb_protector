@@ -1,0 +1,9 @@
+07-09-23 Francois Suter (Cobweb)  <support@cobweb.ch>
+
+	* Added choice of source (GET, POST or environment variables)
+	* Added choice of test (instead of just "is equal to")
+	* Made the "value" property into a stdWrap function
+
+07-05-14 Francois Suter (Cobweb)  <support@cobweb.ch>
+
+	* Initial release

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>module</type>
+		<description>Language labels for extension 'cobweb_protector'</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="pi1_title">Cobweb Protector</label>
+			<label index="pi1_plus_wiz_description">Inserts a check for some specific value(s). Choose redirection to some other page if expected data is missing or invalid.</label>
+		</languageKey>
+		<languageKey index="fr" type="array">
+			<label index="pi1_title">Cobweb Protector</label>
+			<label index="pi1_plus_wiz_description">Insère un contrôle de certaines valeurs. Permet de définir une redirection vers une autre page si ces valeurs manquent ou ne sont pas valables.</label>
+		</languageKey>
+	</data>
+</T3locallang>

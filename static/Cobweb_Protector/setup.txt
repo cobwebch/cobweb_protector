@@ -1,0 +1,24 @@
+# Sample configuration, please refer to the documentation
+
+plugin.tx_cobwebprotector_pi1 {
+
+# The condition will bind all the test together
+
+    condition = AND
+
+# Field to test is defined by its name...
+
+    fields.1.name = test
+
+# its source (possible value are get, post and env; default value is post)
+
+    fields.1.source = post
+
+# the value to test it against
+
+    fields.1.value = 1
+
+# the type of test to perform (possible values are eq, ne, lt, le, gt, ge, in and co; default value is eq)
+
+    fields.1.test = eq
+}
